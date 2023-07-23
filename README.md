@@ -1,7 +1,7 @@
 ### Seja bem vindo! 👋
 
 - 🔭 Loading...
-- 🌱 Estou estudando C# e C++
+- 🌱 Estou estudando C#, C++, Unity
 - 📫 Contate-me no email: leozin3579@gmail.com
 
   <div style="display: inline_block"><br>
