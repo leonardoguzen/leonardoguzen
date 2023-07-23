@@ -1,7 +1,7 @@
 ### Seja bem vindo! 👋
 
-- 🔭 Trabalho com Back-end
-- 🌱 Estou estudando PHP e Java Script
+- 🔭 Loading...
+- 🌱 Estou estudando C# e C++
 - 📫 Contate-me no email: leozin3579@gmail.com
 
   <div style="display: inline_block"><br>
